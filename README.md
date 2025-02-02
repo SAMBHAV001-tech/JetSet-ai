@@ -1,4 +1,4 @@
-### Rephrased Concept for Pitch:
+### Pitch:
 
 **JetSet AI** is an intelligent travel assistant designed to help users explore the best travel destinations. When users provide a country or state, the AI recommends top attractions, provides information about ticket requirements, and suggests the best modes of transportation to reach these destinations. Additionally, it offers hotel recommendations tailored to the user’s preferences, including ratings and budget. The system also tracks the number of available hotels for each rating category.
 
