@@ -1,0 +1,3 @@
+Hotel Name: Taj Mumbai, Location: Mumbai, Price: ₹15,000, Amenities: Pool, Spa, Free Wi-Fi, Gym, Reviews: 4.8⭐.
+Hotel Name: Leela Palace, Location: Delhi, Price: ₹18,000, Amenities: Gym, Airport Shuttle, Luxury Suites, Reviews: 4.7⭐.
+Hotel Name: Oberoi Grand, Location: Kolkata, Price: ₹12,000, Amenities: Swimming Pool, Spa, Fine Dining, Reviews: 4.6⭐.

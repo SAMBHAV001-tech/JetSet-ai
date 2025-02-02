@@ -1,0 +1,42 @@
+[
+    {
+        "airline": "IndiGo",
+        "flight_number": "6E-501",
+        "source": "Delhi",
+        "destination": "Mumbai",
+        "price": "₹5,500",
+        "duration": "2h 10m"
+    },
+    {
+        "airline": "Air India",
+        "flight_number": "AI-102",
+        "source": "Bangalore",
+        "destination": "Kolkata",
+        "price": "₹7,200",
+        "duration": "2h 45m"
+    },
+    {
+        "airline": "Vistara",
+        "flight_number": "UK-845",
+        "source": "Mumbai",
+        "destination": "Goa",
+        "price": "₹3,800",
+        "duration": "1h 15m"
+    },
+    {
+        "airline": "SpiceJet",
+        "flight_number": "SG-302",
+        "source": "Hyderabad",
+        "destination": "Chennai",
+        "price": "₹4,500",
+        "duration": "1h 30m"
+    },
+    {
+        "airline": "Emirates",
+        "flight_number": "EK-505",
+        "source": "Delhi",
+        "destination": "Dubai",
+        "price": "₹28,000",
+        "duration": "4h 10m"
+    }
+]
