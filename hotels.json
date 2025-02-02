@@ -1,0 +1,23 @@
+[
+    {
+        "hotel_name": "Taj Mumbai",
+        "location": "Mumbai",
+        "price": "₹15,000",
+        "amenities": ["Pool", "Spa", "Free Wi-Fi", "Gym"],
+        "reviews": "4.8⭐"
+    },
+    {
+        "hotel_name": "Leela Palace",
+        "location": "Delhi",
+        "price": "₹18,000",
+        "amenities": ["Gym", "Airport Shuttle", "Luxury Suites"],
+        "reviews": "4.7⭐"
+    },
+    {
+        "hotel_name": "Oberoi Grand",
+        "location": "Kolkata",
+        "price": "₹12,000",
+        "amenities": ["Swimming Pool", "Spa", "Fine Dining"],
+        "reviews": "4.6⭐"
+    }
+]

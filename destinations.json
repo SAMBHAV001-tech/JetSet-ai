@@ -1,0 +1,32 @@
+[
+    {
+        "destination": "Goa",
+        "country": "India",
+        "best_time_to_visit": "November - February",
+        "attractions": ["Beaches", "Nightlife", "Water Sports", "Churches"]
+    },
+    {
+        "destination": "Manali",
+        "country": "India",
+        "best_time_to_visit": "March - June",
+        "attractions": ["Snowfall", "Trekking", "Temples", "Hot Springs"]
+    },
+    {
+        "destination": "Dubai",
+        "country": "UAE",
+        "best_time_to_visit": "October - April",
+        "attractions": ["Burj Khalifa", "Desert Safari", "Luxury Shopping"]
+    },
+    {
+        "destination": "Paris",
+        "country": "France",
+        "best_time_to_visit": "April - June, September - October",
+        "attractions": ["Eiffel Tower", "Louvre Museum", "Seine River Cruise"]
+    },
+    {
+        "destination": "Bali",
+        "country": "Indonesia",
+        "best_time_to_visit": "April - October",
+        "attractions": ["Beaches", "Temples", "Rice Terraces", "Night Markets"]
+    }
+]
